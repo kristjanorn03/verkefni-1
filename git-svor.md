@@ -19,3 +19,6 @@
 4. Hvað er útgáfustýring (Version Control)
     * heldur utan um hverja breytingu á skrá yfir tíma svo snemmri útgáfur geta verið endurheimtar, eru    notaðar af hugbúnaðarteymum fyrir frumkóða.
 
+5. Hverjir eru helstu kostir við að nota Git?
+    * med Git er audvelt ad fara til baka i breytingum og vinna audveldlega og hratt.
+
