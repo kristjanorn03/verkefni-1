@@ -22,3 +22,6 @@
 5. Hverjir eru helstu kostir við að nota Git?
     * med Git er audvelt ad fara til baka i breytingum og vinna audveldlega og hratt.
 
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+    * eg tel ad madur eigi ad gera commits eins oft og madur vill en samt med akvednu millibili thannig     ad audvelt se fyrir mann ad fara til baka. 
+
