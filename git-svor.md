@@ -25,3 +25,5 @@
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
     * eg tel ad madur eigi ad gera commits eins oft og madur vill en samt med akvednu millibili thannig     ad audvelt se fyrir mann ad fara til baka. 
 
+7. Hvað er átt við með "Working Directory" og "Staging Area" í Git?
+    * Working directory er su geymsla sem unnid er i og Staging Area er skrefid adur en madur commitar i    geymsluna.
