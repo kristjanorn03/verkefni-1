@@ -16,3 +16,6 @@
     * git checkout - gerir manni kleift ad skita a milli git geymslna
     * git branch - leyfir manni ad bua til, eyda, endrunefna og sett lista i greinar.
 
+4. Hvað er útgáfustýring (Version Control)
+    * heldur utan um hverja breytingu á skrá yfir tíma svo snemmri útgáfur geta verið endurheimtar, eru    notaðar af hugbúnaðarteymum fyrir frumkóða.
+
