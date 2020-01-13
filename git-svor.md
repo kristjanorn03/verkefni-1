@@ -1,4 +1,4 @@
-* Git tspurningar og svör
+* Fyrsta grein.
 
 1. Hvað gera eftirfarandi skipanir? 
     * cd - skiptir um vinnuskrá/möppu
